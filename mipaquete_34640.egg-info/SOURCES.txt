@@ -1,0 +1,10 @@
+setup.py
+mipaquete_34640.egg-info/PKG-INFO
+mipaquete_34640.egg-info/SOURCES.txt
+mipaquete_34640.egg-info/dependency_links.txt
+mipaquete_34640.egg-info/top_level.txt
+paquete34640/__init__.py
+paquete34640/clases.py
+paquete34640/funciones_matematicas.py
+paquete34640/modulo1.py
+paquete34640/modulo2.py
