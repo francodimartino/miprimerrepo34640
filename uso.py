@@ -7,3 +7,5 @@ print(pi)
 
 p1=Persona("Juan",45)
 print(p1)
+
+print("estamos en el archivo uso.py")
